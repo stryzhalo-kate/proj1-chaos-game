@@ -1,5 +1,4 @@
 #include "io.h"
-
 #include <cmath>
 #include <fstream>
 #include <stdexcept>
