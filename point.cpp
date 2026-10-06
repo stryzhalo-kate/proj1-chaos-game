@@ -1,6 +1,5 @@
-// point.cpp
-#include "point.h"
 
+#include "point.h"
 #include <format>
 #include <functional>
 
