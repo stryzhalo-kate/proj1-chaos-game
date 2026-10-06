@@ -1,13 +1,12 @@
-// chaos_game.h
+
 #pragma once
 
 #include <cstddef>
 #include <random>
 #include <vector>
-
 #include "point.h"
 
-// Звичайний вказівник на функцію замість важкого std::function
+
 using Transform = Point (*)(const Point &base, const Point &z);
 
 Transform halfwayTransform();
