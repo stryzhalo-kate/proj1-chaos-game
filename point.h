@@ -1,6 +1,5 @@
-// point.h
-#pragma once
 
+#pragma once
 #include <compare>
 #include <string>
 
